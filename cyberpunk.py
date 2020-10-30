@@ -1,5 +1,5 @@
 # Cyberpunk Frame Editor
-# by Flezzo (vk.com/flezzo)
+# by Flezzo
 # All rights reserved (no)
 
 from PIL import Image, ImageDraw, ImageFont
